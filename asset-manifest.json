@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aircraft/static/css/main.a617e044.chunk.css",
+    "main.js": "/aircraft/static/js/main.dff3326e.chunk.js",
+    "main.js.map": "/aircraft/static/js/main.dff3326e.chunk.js.map",
+    "runtime-main.js": "/aircraft/static/js/runtime-main.2c55728d.js",
+    "runtime-main.js.map": "/aircraft/static/js/runtime-main.2c55728d.js.map",
+    "static/js/2.c0e375fd.chunk.js": "/aircraft/static/js/2.c0e375fd.chunk.js",
+    "static/js/2.c0e375fd.chunk.js.map": "/aircraft/static/js/2.c0e375fd.chunk.js.map",
+    "static/js/3.856820df.chunk.js": "/aircraft/static/js/3.856820df.chunk.js",
+    "static/js/3.856820df.chunk.js.map": "/aircraft/static/js/3.856820df.chunk.js.map",
+    "index.html": "/aircraft/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/aircraft/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c0e375fd.chunk.js.LICENSE.txt": "/aircraft/static/js/2.c0e375fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c55728d.js",
+    "static/js/2.c0e375fd.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dff3326e.chunk.js"
+  ]
+}
